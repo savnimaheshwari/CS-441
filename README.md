@@ -1,3 +1,9 @@
+# Next steps discussed with TA 
+T-test for statistical significance
+Regression + random forest 
+CV
+
+
 # IPO Data Pipeline
 
 Cleans and checks a hand-compiled table of biotech IPOs, and optionally fills blank fields from SEC EDGAR.
