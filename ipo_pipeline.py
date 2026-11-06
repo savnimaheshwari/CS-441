@@ -74,7 +74,7 @@ STEM_CELL_ORIGINAL_RANGE = [
     ("U.S. Stem Cell", "Filed Range High ($)", 8.0, 16.0, "Same source as Filed Range Low."),
 ]
 
-# Underwriter count per company (team-supplied, in final-dataset row order). Rule: count EVERY named
+# Underwriter count per company (team-supplied, in final-dataset row order). Rule: count EVERY named - the underwriter
 # underwriting firm in 'Lead Underwriters', including co-managers and 'also book-runners' in
 # parentheses (Regenxbio is 3 per the team's list). Companies not listed here fall back to a text
 # parser that applies the same rule - check those counts.
